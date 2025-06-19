@@ -1,0 +1,71 @@
+.profile{
+    width:350px;
+    height: 500px;
+    background: #fff;
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 31px;
+    box-shadow: 0 8px 20px  rgba(0, 0, 0, 0.1);
+}
+body{
+    background:  #f0f2f5;
+    
+}
+.image{
+    width:122px;
+    height:117px;
+    padding-left:112px;
+    padding-top:23px ;
+}
+.name{
+    font-size:20px ;
+    font-weight: bold;
+    padding-left: 100px;
+
+}
+.role{
+    font-size:20px;
+    padding-left: 140px;
+}
+.description{
+    font-size: 17px;
+    padding-left: 50px;
+}
+.skills{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 145px;
+}
+.skills1{
+    background: #d8d6d6;
+    width: 50px;
+    border-radius: 7px;
+    float :left;
+    margin-left: 83px;
+
+}
+.skills2{
+    background: #d8d6d6;
+    width: 50px;
+    border-radius: 7px;
+    float :left;
+    margin-left: 10px;
+}
+.skills3{
+    background: #d8d6d6;
+    width: 50px;
+    border-radius: 7px;
+    float :left;
+    margin-left: 10px;
+
+}
+.image1{
+    width:50px;
+    height:40px;
+    padding-left: 123px;
+    padding-top: 20px;
+}
+.image2{
+    width:40px;
+    height:40px;
+}
